@@ -2,6 +2,9 @@
 ## Implementação de API Rest em .NET C#.
 <br></br>
 ### Como rodar a aplicação localmente:
+* Realizar o clone do projeto
+* Rodar no Visual Studio
+* Quando abrir o Swagger terá que fazer o login com o Usuário: Usuario123, e Senha: Senha123 (Vai gerar um token que deverá ser copiado e colado no Authorize do Swagger). 
 <br></br>
 ### Necessário:
 * Visual Studio
