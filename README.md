@@ -12,3 +12,6 @@
 <br></br>
 # Tela:
 ![Desafio Back End](https://user-images.githubusercontent.com/77756047/179268740-f9d5dcd6-be85-4574-884e-7a9ad143b2c4.png)
+<br></br>
+# Feito por: Renan Lima
+### Linkedin: https://www.linkedin.com/in/renan-lima-dev/
